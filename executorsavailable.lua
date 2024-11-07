@@ -1,3 +1,6 @@
+-- Made by MG Hub
+-- You can find the script in discord: https://discord.gg/HDk5WwqEYy [MG Hub]
+ 
 local Executors = {
     {Name = "Nezur", IsAvailable = false, IsPhone = false},
     {Name = "JJSploit", IsAvailable = false, IsPhone = false},
