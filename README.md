@@ -2,7 +2,7 @@
 
 **MG Hub** is your go-to versatile scripting tool designed for multiple games, featuring a collection of custom scripts that are tailored to enhance your gaming experience.
 
-While we’re actively working on a script search feature for future updates, we hope you enjoy exploring and using the current offerings!
+While we’re actively working on a script search feature for future updates, we hope you enjoy exploring and using our current scripts!
 
 ***Important Notice:***  
 We cannot be held responsible for any bans that may occur while using scripts from MG Hub or any other sources. **Use at your own risk!**
