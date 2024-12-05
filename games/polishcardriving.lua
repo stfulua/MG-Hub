@@ -14,5 +14,6 @@ Rayfield:Notify({
          end
       },
 },
+wait(10)
 Rayfield:Destroy()
 })
